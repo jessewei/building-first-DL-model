@@ -1,4 +1,4 @@
-# building-first-ML-model
+# building-first-DL-model
 
 Learn how to build your first Neural Network on IBM Data Science Experience. 
 
